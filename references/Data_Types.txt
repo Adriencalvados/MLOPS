@@ -1,0 +1,14 @@
+0	FFT acoustic cycle a vide	float64			4096
+	FFT vibratoire cycle a vide	float64			4096
+	FFT acoustic cycle en charge	float64			4096
+	FFT vibratoire cycle en charge	float64			4096
+16384	ReferenceMotor			int64			1
+16385	Speed0Torque			float64			1
+16386	Current0UpRes			float64			1
+16387	Current0Res			float64			1
+16388	SpeedNominalTorque		float64			1
+16389	CurrentNominalTorque		float64			1
+16390	BlockedTorque			float64			1
+16391	CurrentBlockedTorque		float64			1
+16392	Vmin_N				float64			1
+16393	Vmax_N				float64			1
