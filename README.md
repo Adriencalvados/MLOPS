@@ -1,7 +1,7 @@
-Project Name
+Détections d’anomalies acoustiques et vibratoires de moteurs électriques. 
 ==============================
 
-This project is a starting Pack for MLOps projects based on the subject "movie_recommandation". It's not perfect so feel free to make some modifications on it.
+Evolution d'un système d'évaluation manuel, dirigé par un acousticien, vers un modèle sophistiqué basé sur l'intelligence artificielle. Cette transformation vise à diminuer les faux positifs lors des contrôles de qualité acoustique tout en optimisant la performance des lignes de production. Le nouveau système devra offrir une analyse des données à la fois rapide et précise, avec des retours d'information en temps réel pour un ensemble de 8 machines de mesure
 
 Project Organization
 ------------
